@@ -6,7 +6,7 @@ body {
   font-family: 'Muli', sans-serif;
   color: #424751;
   font-size: 14px;
-  background: url(bg.jpg) no-repeat center center fixed; 
+  /*background: url(bg.jpg) no-repeat center center fixed; */
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -19,7 +19,8 @@ body {
 }
 
 h1, h2, h3, a {
-  color: #fff;
+  /*color: #fff;*/
+  color: #4E4E4E;
 }
 
 h1 {
@@ -52,7 +53,8 @@ img {
 .box {
   vertical-align: middle;
   width: 100%;
-  height: 333px;
+  /*height: 333px;*/
+  height: 150px;
   margin: 0 auto;
 }
 

@@ -4,7 +4,7 @@ $(document).ready(function($) {
   }, 1000);
   setTimeout(function() {
       $(".logo").fadeIn("slow");
-  }, 2000);
+  }, 1000);
   setTimeout(function() {
       $(".foot").fadeIn("slow");
   }, 3000);
