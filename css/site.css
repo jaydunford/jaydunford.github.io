@@ -1,0 +1,48 @@
+/*
+* Custom styles
+*/
+
+
+/* Table of contents
+––––––––––––––––––––––––––––––––––––––––––––––––––
+- Grid
+- Base Styles
+- Typography
+- Links
+- Buttons
+- Forms
+- Lists
+- Code
+- Tables
+- Spacing
+- Utilities
+- Clearing
+- Media Queries
+*/
+
+
+/* ...
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #fff;
+}
+
+#container-wrapper {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#main {
+  text-align: center;
+}
+#main h2 {
+  display: inline;
+  font-size: 2rem;
+  letter-spacing: .125rem;
+}
+
